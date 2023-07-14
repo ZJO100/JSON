@@ -1,6 +1,6 @@
 { "Skils": { "S1": "Bug reports",
 	     "S2": "Http requests",
-	     "S3"; "Postman",
+	     "S3": "Postman",
 	     "S4": "Terminal",
 	     "S5": "SQL",
 	     "S6": "Potgres DB",
